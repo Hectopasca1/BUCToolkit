@@ -9,7 +9,7 @@ tags: [getting started]
 pin: true
 ---
 
-![BUCToolkit_logo](https://github.com/Hectopasca1/BUCToolkit/blob/main/logo.png)
+![BUCToolkit_logo](https://github.com/Hectopasca1/BUCToolkit/blob/main/assets/logo.jpg)
 
 # [BUCToolkit](https://github.com/TrinitroCat/BM4Ckit)
 ## Batch-Upscaled Catalysis Toolkit
