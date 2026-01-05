@@ -1,7 +1,7 @@
 ---
 title: Introduction
 description: >-
-  A brief introduction to BM4Ckit
+  A brief introduction to BUCToolkit
 authors: [pengxin, xin, hao]
 date: 2025-07-08 14:30:00 +0800
 categories: [Intro]
@@ -9,7 +9,7 @@ tags: [getting started]
 pin: true
 ---
 
-![BUCToolkit_logo](https://github.com/Hectopasca1/BUCToolkit/blob/main/assets/logo.jpg)
+![BUCToolkit_logo](https://github.com/Hectopasca1/BUCToolkit/blob/main/assets/logo.png)
 
 # [BUCToolkit](https://github.com/TrinitroCat/BM4Ckit)
 ## Batch-Upscaled Catalysis Toolkit
