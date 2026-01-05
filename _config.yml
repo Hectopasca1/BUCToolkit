@@ -17,7 +17,7 @@ time_format: "%H:%M"
 
 title: BUCToolkit # the main title
 
-tagline: Batch-upscaled Catalysis Toolkit # it will display as the subtitle
+tagline: Batch-Upscaled Catalysis Toolkit # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A Python-based package containing various tools for machine learning applied in catalytic chemistry.
@@ -151,7 +151,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "/BM4Ckit_wiki/"
+baseurl: "/BUCToolkit_wiki/"
 
 # ------------ The following options are not recommended to be modified ------------------
 
