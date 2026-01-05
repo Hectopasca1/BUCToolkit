@@ -15,9 +15,9 @@ time_format: "%H:%M"
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: BM4Ckit # the main title
+title: BUCToolkit # the main title
 
-tagline: Batched Machine-learning for Catalysts kit # it will display as the subtitle
+tagline: Batch-upscaled Catalysis Toolkit # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A Python-based package containing various tools for machine learning applied in catalytic chemistry.
@@ -99,7 +99,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://raw.githubusercontent.com/TrinitroCat/BM4Ckit/main/logo.png
+avatar: https://github.com/Hectopasca1/BUCToolkit/blob/main/logo.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
