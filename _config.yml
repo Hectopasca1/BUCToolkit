@@ -77,6 +77,8 @@ analytics:
 # Page views settings
 pageviews:
   provider: goatcounter # now only supports 'goatcounter'
+  goatcounter:
+    id: https://hectopasca1.github.io/BUCToolkit_Wiki/
 
 # Prefer color scheme setting.
 #
